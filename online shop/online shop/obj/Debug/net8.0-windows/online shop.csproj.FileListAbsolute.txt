@@ -1,0 +1,20 @@
+D:\yasamin\c#\online shop\online shop\bin\Debug\net8.0-windows\online shop.exe
+D:\yasamin\c#\online shop\online shop\bin\Debug\net8.0-windows\online shop.deps.json
+D:\yasamin\c#\online shop\online shop\bin\Debug\net8.0-windows\online shop.runtimeconfig.json
+D:\yasamin\c#\online shop\online shop\bin\Debug\net8.0-windows\online shop.dll
+D:\yasamin\c#\online shop\online shop\bin\Debug\net8.0-windows\online shop.pdb
+D:\yasamin\c#\online shop\online shop\obj\Debug\net8.0-windows\online_shop.Form1.resources
+D:\yasamin\c#\online shop\online shop\obj\Debug\net8.0-windows\online_shop.Form2.resources
+D:\yasamin\c#\online shop\online shop\obj\Debug\net8.0-windows\online_shop.Form3.resources
+D:\yasamin\c#\online shop\online shop\obj\Debug\net8.0-windows\online_shop.Form4.resources
+D:\yasamin\c#\online shop\online shop\obj\Debug\net8.0-windows\online_shop.Form5.resources
+D:\yasamin\c#\online shop\online shop\obj\Debug\net8.0-windows\online shop.csproj.GenerateResource.cache
+D:\yasamin\c#\online shop\online shop\obj\Debug\net8.0-windows\online shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\yasamin\c#\online shop\online shop\obj\Debug\net8.0-windows\online shop.AssemblyInfoInputs.cache
+D:\yasamin\c#\online shop\online shop\obj\Debug\net8.0-windows\online shop.AssemblyInfo.cs
+D:\yasamin\c#\online shop\online shop\obj\Debug\net8.0-windows\online shop.csproj.CoreCompileInputs.cache
+D:\yasamin\c#\online shop\online shop\obj\Debug\net8.0-windows\online shop.dll
+D:\yasamin\c#\online shop\online shop\obj\Debug\net8.0-windows\refint\online shop.dll
+D:\yasamin\c#\online shop\online shop\obj\Debug\net8.0-windows\online shop.pdb
+D:\yasamin\c#\online shop\online shop\obj\Debug\net8.0-windows\online shop.genruntimeconfig.cache
+D:\yasamin\c#\online shop\online shop\obj\Debug\net8.0-windows\ref\online shop.dll
